@@ -2,7 +2,7 @@
 # Introduction
 This repo contains square steel tube data, send email to hq_tongji@163.com for more information.
 # Use steel data
-You can download steel data reported in the paper from Google Drive () or Baidu Cloud (https://pan.baidu.com/s/1I5LKkjKyG0mnG2YZKsDthg, the access code is "2bzk").
+You can download steel data reported in the paper from Google Drive (https://drive.google.com/drive/folders/1fsjlUhBySJLQFCAPQqY4Y7oWjUKlNVRQ?usp=drive_link) or Baidu Cloud (https://pan.baidu.com/s/1I5LKkjKyG0mnG2YZKsDthg, the access code is "2bzk").
 # Cite this paper
 If you use pipe data in your research, please cite our work by using the following BibTeX entry:
 
